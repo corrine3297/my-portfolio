@@ -1,0 +1,23 @@
+.aboutSection {
+    padding: 10px 80px 50px 80px;
+    background-color: rgb(248, 249, 250);
+}
+
+.about-pic{
+display: flex;
+justify-content: center;
+align-items: center; 
+}
+
+.about-pic img{
+    width: 250px;
+    height: 300px;
+}
+
+.aboutTitle{
+    margin-top: 50px;
+    color: #0e0e0e;
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 1.36;
+}
